@@ -1,4 +1,4 @@
-# GlowScribe Learn
+# AI-Study-Assistant
 
 An AI-powered learning assistant designed to help you learn any subject through interactive chat, AI-generated flashcards, and comprehensive study notes.
 
