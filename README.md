@@ -18,7 +18,7 @@ An AI-powered learning assistant designed to help you learn any subject through 
 1.  Clone the repository:
     `git clone https://github.com/3pochs/AI-Study-Assistant.git`
 2.  Navigate to the project directory:
-    `cd glow-scribe-learn`
+    `cd AI-Study-Assistant`
 3.  Install dependencies:
     `npm install`
 
